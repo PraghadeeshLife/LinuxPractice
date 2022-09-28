@@ -1,0 +1,1 @@
+cmd_/home/praghadeesh/Misc/MODPROG/HELLO/hello.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/praghadeesh/Misc/MODPROG/HELLO/hello.ko /home/praghadeesh/Misc/MODPROG/HELLO/hello.o /home/praghadeesh/Misc/MODPROG/HELLO/hello.mod.o;  true
