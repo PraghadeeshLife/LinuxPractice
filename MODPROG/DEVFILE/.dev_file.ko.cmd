@@ -1,0 +1,1 @@
+cmd_/home/praghadeesh/Misc/MODPROG/DEVFILE/dev_file.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/praghadeesh/Misc/MODPROG/DEVFILE/dev_file.ko /home/praghadeesh/Misc/MODPROG/DEVFILE/dev_file.o /home/praghadeesh/Misc/MODPROG/DEVFILE/dev_file.mod.o;  true
