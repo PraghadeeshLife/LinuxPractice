@@ -1,0 +1,1 @@
+cmd_/home/praghadeesh/Misc/MODPROG/HELLO/Module.symvers := sed 's/\.ko$$/\.o/' /home/praghadeesh/Misc/MODPROG/HELLO/modules.order | scripts/mod/modpost -m -a  -o /home/praghadeesh/Misc/MODPROG/HELLO/Module.symvers -e -i Module.symvers   -T -
